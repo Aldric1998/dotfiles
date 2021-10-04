@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aldricdg@gmail.com
+	name = Aldric De Gryse
